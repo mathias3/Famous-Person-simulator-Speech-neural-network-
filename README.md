@@ -1,4 +1,4 @@
-# Famous-Person-Speech-Speech-neural-simulator
+# Famous-Person-Speech-neural-simulator
 
 twitter handle @_neural_bot
 
