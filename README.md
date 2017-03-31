@@ -1,1 +1,1 @@
-# prez.AndrzejDudaWritenSpeach-neural-simulator
+# prez.AndrzejDudaWritenSpeech-neural-simulator
