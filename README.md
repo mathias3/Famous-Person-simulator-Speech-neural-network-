@@ -1,0 +1,1 @@
+# prez.AndrzejDudaWritenSpeach-neural-simulator
