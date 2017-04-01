@@ -1,4 +1,4 @@
-# Famous-Person-Speech-neural-simulator
+# Famous person (here President of Poland, but you can change corpus) speech simulator with -neural networks (LSTM)
 
 twitter handle @_neural_bot
 
