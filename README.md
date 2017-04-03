@@ -11,3 +11,5 @@ VGG16.py and utils.py taken from http://course.fast.ai/ and modified appropriate
  
  #Update
  dudaOptimized covers polish chars problems
+#Update2
+Val_los has the best score so far together with .h5 file of weights
