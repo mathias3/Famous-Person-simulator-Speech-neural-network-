@@ -12,8 +12,12 @@ VGG16.py and utils.py taken from http://course.fast.ai/ and modified appropriate
 #Update
  dudaOptimized covers polish chars problems
  
+ 
+ 
 #Update 2
 Val_los has the best score so far( LSTM with no acctiwation but with batch_norm on embeddings)  together with .h5 file of weights
+
+
 
 
 #update3 I tried GRU simpleRNN with both activiation: rElu, Elu with no effect for better learning curve
