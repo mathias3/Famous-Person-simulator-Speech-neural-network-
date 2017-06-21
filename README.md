@@ -5,7 +5,7 @@ twitter handle @_neural_bot
 
 
 
-VGG16.py and utils.py taken from http://course.fast.ai/ and modified appropriately
+VGG16.py and utils.py taken from http://fast.ai/ and modified appropriately
 
  following idea and concept of  @deepdrumpf
  
@@ -15,7 +15,7 @@ VGG16.py and utils.py taken from http://course.fast.ai/ and modified appropriate
  
  
 #Update 2
-Val_los has the best score so far( LSTM with no acctiwation but with batch_norm on embeddings)  together with .h5 file of weights
+Val_los has the best score so far( LSTM with no activation but with batch_norm on embeddings)  together with .h5 file of weights
 
 
 
